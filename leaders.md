@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Christian James Eaton](mailto://christian.eaton@owasp.org)
+* [Christian James Eaton](mailto:christian.eaton@owasp.org)
