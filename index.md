@@ -10,7 +10,11 @@ region: United States
 auto-migrated: 1
 
 ---
+<!-- rebuild -->
 
+OWASP Biloxi-Gulfport
+-------------
+Welcome to the Biloxi-Gulfport chapter homepage. The chapter leader is <a href="mailto:christian.eaton@owasp.org">Christian Eaton</a>.  We are looking forward to having our first meeting in March of 2020. Follow chapter news on  [Meetup.com](https://www.meetup.com/OWASP-Biloxi-Gulfport-Chapter/)
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
