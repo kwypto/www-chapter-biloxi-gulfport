@@ -14,9 +14,7 @@ region: United States
 <big>**[OWASP Biloxi-Gulfport Meetup
 Group](https://www.meetup.com/OWASP-Biloxi-Gulfport-Chapter/)** </big>
 
-\== Local News ==
-
-**`Meeting``   ``Location`**
+**We are looking forward to our first meeting in March of 2020**
 
 Everyone is welcome to join us at our chapter meetings.
 
